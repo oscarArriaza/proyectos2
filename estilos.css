@@ -21,7 +21,7 @@ html
 .divDeProyecto:hover
 {
     /*box-shadow: 0 0 1vh 0.4vh rgb(49, 0, 243);*/
-    box-shadow: 0 0 1vh 0.4vh rgb(2, 255, 2);
+    box-shadow: 0 0 1vh 0.4vh red;
     transform: scale(1.1);
 }
 .divDeProyecto2
@@ -51,7 +51,7 @@ html
 }
 #contenedorHeader:hover
 {
-    box-shadow: 0 0 1vh 0.4vh rgb(2, 255, 2);
+    box-shadow: 0 0 1vh 0.4vh red;
 }
 #imagenHeader
 {
@@ -94,7 +94,7 @@ html
 }
 #contenedorImagenFooter:hover
 {
-    box-shadow: 0 0 1vh 0.4vh rgb(2, 255, 2);
+    box-shadow: 0 0 1vh 0.4vh red;
 }
 #imagenFooter
 {
@@ -126,7 +126,7 @@ html
 }
 .opcionMenu:hover
 {
-    box-shadow: 0 0 1vh 0.4vh rgb(2, 255, 2);
+    box-shadow: 0 0 1vh 0.4vh red;
     transform: scale(1.1);
 }
 img 
